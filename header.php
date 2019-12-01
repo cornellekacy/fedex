@@ -17,6 +17,7 @@
 		<link rel="alternate stylesheet" type="text/css" href="assets/switcher/css/color4.css" title="color4" media="all" />
 		<link rel="alternate stylesheet" type="text/css" href="assets/switcher/css/color5.css" title="color5" media="all" />
 		<link rel="alternate stylesheet" type="text/css" href="assets/switcher/css/color6.css" title="color6" media="all" />
+		<link rel="icon" type="image/png" sizes="16x16" href="img/fav.png">
         
         <!--[if lt IE 9]>
           <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
