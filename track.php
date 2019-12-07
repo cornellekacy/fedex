@@ -3,9 +3,9 @@
 
 <div class="bg-image page-title">
 	<div class="container-fluid">
-		<a href="#"><h1>ABOUT US</h1></a>
+		<a href="#"><h1>TRACK PACKAGE</h1></a>
 		<div class="pull-right">
-			<a href="01_home.html"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="03_about.html">About Us</a>
+			<a href="01_home.html"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="03_about.html">Tracking</a>
 		</div>
 	</div>
 </div>    
@@ -65,9 +65,24 @@
     // output data of each row
                 while($row = mysqli_fetch_assoc($result)) {?> 
                     <h3 align="center">Tracking information for tracking number <?php echo $row["ship_id"] ?></h3>
+                        <table class='table table-hover'>
+                            <tr class='info'>
+                              <th>Package Number</th>
+                              <th>Package Description</th>
+                              <th>Number of packets</th>
+                              <th>Gross Weight</th>
+                            </tr>
+                            <tr>
+                              <td class=''><?php echo $row["packagenum"] ?></td>
+                              <td class=''>Sealed</td>
+                              <td class=''><?php echo $row["items"] ?></td>
+                              <td class=''><?php echo $row["weight"] ?></td>
+                            </tr>
+                            </table>
                     <div class="col-md-6">
                         <h3 align="center">RECEIVERS DETAILS</h3><br>
                         <div class="table-responsive">
+
                             <table class="table table-clean-paddings margin-bottom-0" style="background-color: #7c7c7c">
 
                                 <tbody>
@@ -288,7 +303,7 @@
     <td>
        <div class="contact-container"><a href="#" style="color: #000;"><b>SHIPMENT <br> STATUS:</b></a> </div>
    </td>
-   <td  class="blinking" style="color: red; text-transform: uppercase; font-weight: bolder;"><?php echo $row["status"] ?></td>
+   <td  class="blink_me" style="color: red; text-transform: uppercase; font-weight: bolder;"><?php echo $row["status"] ?></td>
 
 </tr>
 </tbody>

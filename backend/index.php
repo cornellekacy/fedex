@@ -10,8 +10,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon.ico">
-    <title>Cornike transport & Logistics - Admin Panel</title>
+    <link rel="icon" type="image/png" sizes="16x16" href="../img/fav.png">
+    <title>FedEx-USA - Admin Panel - Login</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/lib/bootstrap/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
@@ -32,13 +32,13 @@
 			<circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" /> </svg>
     </div>
     <!-- Main wrapper  -->
-    <div id="main-wrapper" style="background-color: #7c7c7c">
-
+    <div id="main-wrapper">
+<br><br><br>
         <div class="unix-login">
             <div class="container-fluid">
                 <div class="row justify-content-center">
                     <div class="col-lg-4">
-                        <div class="login-content card" style="background-color: #000">
+                        <div class="login-content card" >
                             <div class="login-form">
                                 
 <?php
@@ -80,8 +80,12 @@ $password = mysqli_real_escape_string($link, $password);
         //creating a session name with username ad inserting the submitted username
         $_SESSION['username'] = $username;
 
+        echo "<p align='center' style='color: green;'>Welcome! Login Successful";
+
+        header( "refresh:2;url=home.php" );
+
         //redirecting to homepage
-        header("Location: home.php");
+        // header("Location: home.php");
     }else{
         //display error if no record exists
         echo "<div class='alert alert-danger' role='alert' align='center'>
@@ -90,7 +94,7 @@ $password = mysqli_real_escape_string($link, $password);
     }
 }
 ?>
-                                <p align="center"><img src="../images/logo.png"></p>
+                                <p align="center"><img src="pc.png"></p>
                                 
                                 <h4>Welcome Please login bellow</h4>
                                 <form method="post">
@@ -113,6 +117,7 @@ $password = mysqli_real_escape_string($link, $password);
                 </div>
             </div>
         </div>
+        <br><br><br>
 
     </div>
     <!-- End Wrapper -->

@@ -51,6 +51,7 @@ CREATE TABLE IF NOT EXISTS `track`.`track` (
   `cat` varchar(255) NOT NULL,
   `weight` varchar(255) NOT NULL,
   `items` varchar(255) NOT NULL,
+  `packagenum` varchar(255) NOT NULL,
   `descrip` varchar(255) NOT NULL,
   `ship_id` varchar(255) NOT NULL,
   `lon` varchar(255) NOT NULL,

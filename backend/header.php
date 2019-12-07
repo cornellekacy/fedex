@@ -14,8 +14,8 @@ session_start();
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Favicon icon -->
-        <link rel="icon" type="image/png" sizes="16x16" href="favicon.ico">
-    <title>Cornike transport & Logistics - Admin Panel</title>
+        <link rel="icon" type="image/png" sizes="16x16" href="../img/fav.png">
+    <title>Fedexs USA - Admin Panel - Home</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/lib/bootstrap/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
@@ -86,7 +86,7 @@ session_start();
 
                         <!-- Profile -->
                         <li><a href="logout.php"><i class="fa fa-power-off"></i> Logout</a></li>
-                        <li style="margin-left: 20px"><a href="../tracking.php"> Track Package</a></li>
+                        <li style="margin-left: 20px"><a href="../track.php"> Track Package</a></li>
                         <li style="margin-left: 20px"><a href="../index.php"> Back To Homepage</a></li>
              
                     </ul>

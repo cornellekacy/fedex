@@ -4,8 +4,8 @@
 				<div class="container-fluid">
 					<div class="row block-content">
 						<div class="col-xs-8 col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-							<a href="#" ><img src="img/logo-footer1.png"></a>
-							<p>Integer congue elit non semper laoreet sed lectu orc posuer nisl tempor sed felis ac mauris ellent esque ndu ca urna Integer vitae felis.</p>
+							<a href="#" ><img src="img/logo-footer3.png"></a>
+							<p>We strongly believe that pursuing all of these goals is in our interest and in the interest of all our stakeholders: customers, employees, investors and the planet as a whole.</p>
 							<div class="footer-icons">
 								<a href="#"><i class="fa fa-facebook-square fa-2x"></i></a>
 								<a href="#"><i class="fa fa-google-plus-square fa-2x"></i></a>
@@ -29,26 +29,26 @@
 						<div class="col-xs-6 col-sm-2 wow zoomIn" data-wow-delay="0.3s">
 							<h4>MAIN LINKS</h4>
 							<nav>
-								<a href="01_home.html">Home</a>
-	                            <a href="06_services.html">Our Services</a>
-	                            <a href="04_about.html">About Us</a>
-	                            <a href="07_services.html">News</a>
-	                            <a href="10_blog.html">Shop</a>
-	                            <a href="12_contact.html">Contact</a>
+								<a href="">Home</a>
+	                            <a href="">Our Services</a>
+	                            <a href="">About Us</a>
+	                            <a href="">Review</a>
+	                            <a href="">Track Package</a>
+	                            <a href="">Contact</a>
 							</nav>
 						</div>
 						<div class="col-xs-6 col-sm-4 wow zoomIn" data-wow-delay="0.3s">
 							<h4>CONTACT INFO</h4>
 							Everyday is a new day for us and we work really hard to satisfy our customers everywhere.
 							<div class="contact-info">
-								<span><i class="fa fa-location-arrow"></i><strong>TRANSCARGO LTD.</strong><br>3608 NewHill Station Ave CA, Newyork 33102 </span>
+								<span><i class="fa fa-location-arrow"></i><strong>FEDEXS-USA LTD.</strong><br>3608 NewHill Station Ave CA, Newyork 33102 </span>
 								<span><i class="fa fa-phone"></i>1.800.987.6543</span>
-								<span><i class="fa fa-envelope"></i>info@domain.com   |   quote@domain.com</span>
+								<span><i class="fa fa-envelope"></i>contact@fedex-usa.net   |   quote@fedex-usa.net</span>
 								<span><i class="fa fa-clock-o"></i>Mon - Sat  8.00 - 19.00</span>
 							</div>
 						</div>
 					</div>
-					<div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a>Created by <a href="#">Templines</a> &copy; 2015 TransCargo All rights reserved.</div>
+					<div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a><a href="#"></a> &copy; 2015 FedEx-USA All rights reserved.</div>
 				</div>
 			</footer>
 		</div>

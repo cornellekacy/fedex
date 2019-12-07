@@ -102,9 +102,10 @@ elseif (empty($prod)) {
 
 else{
     $me = rand();
+    $me1 = rand();
 // Attempt insert query execution
-    $sql = "INSERT INTO track (jname,jadd,jcountry,jemail,jnumber,sname,sadd,scountry,semail,snumber, prod, mode, ship_date, ddate,ship_time, dtime, currentl, pickupl, status,deliverys,cat,weight,items,descrip,ship_id,lon,lat) 
-    VALUES ('$jname','$jadd','$jcountry','$jemail','$jnumber','$sname','$sadd','$scountry','$semail','$snumber', '$prod', '$mode', '$ship_date', '$ddate','$ship_time', '$dtime', '$currentl', '$pickupl', '$status','$deliverys','$cat','$weight','$items','$descrip','CL-$me','$lon','$lat')";
+    $sql = "INSERT INTO track (jname,jadd,jcountry,jemail,jnumber,sname,sadd,scountry,semail,snumber, prod, mode, ship_date, ddate,ship_time, dtime, currentl, pickupl, status,deliverys,cat,weight,items,packagenum,descrip,ship_id,lon,lat) 
+    VALUES ('$jname','$jadd','$jcountry','$jemail','$jnumber','$sname','$sadd','$scountry','$semail','$snumber', '$prod', '$mode', '$ship_date', '$ddate','$ship_time', '$dtime', '$currentl', '$pickupl', '$status','$deliverys','$cat','$weight','$items','$me1','$descrip','$me','$lon','$lat')";
     if(mysqli_query($link, $sql)){
         echo "<div class='alert alert-success'>
         <strong>Success!</strong> Tracking Successfully Created.
@@ -209,6 +210,8 @@ mysqli_close($link);
                                         <option value="In Progress">In Progress</option>
                                         <option value="Delivered">Delivered</option>
                                         <option value="On Hold">On Hold</option>
+                                        <option value="Proccessing">Proccessing</option>
+                                        <option value="Delayed">Delayed</option>
                                     </select>
 
                                 </div>

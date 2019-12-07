@@ -13,12 +13,12 @@
 			<div class="container-fluid inner-offset">
 				<div class="hgroup text-center wow zoomIn" data-wow-delay="0.3s">
 					<h2>FOR ALL YOUR CARGO NEEDS</h2>
-					<h1>TRANSCARGO - THE RIGHT CHOICE</h1>
+					<h1>FedEx-USA - THE RIGHT CHOICE</h1>
 				</div>            
 				<ul class="nav nav-tabs wow fadeIn" data-wow-delay="0.3s" id="myTab">
 					<li class="active"><a href="#tab1" data-toggle="tab">WHY CHOOSE US</a></li>
 					<li><a href="#tab2" data-toggle="tab">THE MISSION</a></li>
-					<li><a href="#tab3" data-toggle="tab">OUR STRATEGY</a></li>
+			
 				</ul>
 
 				<div class="tab-content inner-offset wow fadeIn" data-wow-delay="0.3s">
@@ -28,9 +28,10 @@
 								<img class="full-width" src="media/images/1.jpg" alt="Img">
 							</div>
 							<div class="col-sm-7">
-								<p><strong style="font-size:16px;">Sed mollis lorem ipsum dolor sit amet, consectetuer adipiscing elit vamus fringilla sed cipit mil sed hac habitasse platea dictumst pellentesque justo.</strong></p>
-								<p>Vivamus quis sapien. Etiam fring illatul Quisque consectetuer. Integer conguel elit non semper laoreet sed lectus orcid posuere nisl tempor lacus felis ac mauris. Pellentesque inedu urna. Integer lvitae felis. Vel magna posuere vestibulum. Nam rutrum congue diam.</p>
-								<u>Aliquam malesuada mauris urk metus lorem ipsum dolor sit amet consectetur adipisicing</u>
+								<p><strong style="font-size:16px;">FedEx-USA as you delivery company. we have all it takes to get your packages to you.</strong></p>
+								<p>We strongly believe that pursuing all of these goals is in our interest and in the interest of all our stakeholders: customers, employees, investors and the planet as a whole. We add value to people’s interaction with us, whether with excellent services or products, by engaging our employees and nurturing their talents. And, we show concern for our world and our communities with our various corporate responsibility programs under the motto of ‘Living responsibility’.</p>
+						<p>We are your best friend when it comes to package transportation and delivery, FedEx-USA is the best company you can relly on if you buy online and you need a delivery service or if you are a business man and you need a reliable transport company to bring you goods to you. We also have warehouse services that can hold you goods untill you are ready to take.</p>
+						
 							</div>
 						</div>
 					</div>
@@ -40,22 +41,16 @@
 								<img class="full-width" src="media/images/1.jpg" alt="Img">
 							</div>
 							<div class="col-sm-7 text-block">
-								<p><strong>Aliquam malesuada mauris urk metus lorem ipsum dolor sit amet consectetur adipisicingSed mollis lorem ipsum dolor sit amet, consectetuer adipiscing elit vamus fringilla sed cipit mil sed hac habitasse platea dictumst pellentesque justo.</strong></p>
-								<p>Vivamus quis sapien. Etiam fring illatul Quisque consectetuer. Integer conguel elit non semper laoreet sed lectus orcid posuere nisl tempor lacus felis ac mauris. Vel magna posuere vestibulum. Nam rutrum congue diam.</p>
-								<u>Aliquam malesuada mauris urk metus lorem ipsum dolor sit amet consectetur adipisicing</u>
+								<p><strong>Our mission at FedEx-USA is to provide our faithful clients with the best services we have been doing over the past years.</strong></p>
+								<p>Our mission is a short-hand for what we aim to deliver time and time again. It summarizes our management philosophy and explains that we want to connect to a more prosperous future by building better relationships and ties across the world with all stakeholders – our customers, colleagues, partners, and society. </p>
+								
 							</div>
 						</div>
 					</div>
 					<div class="tab-pane" id="tab3">
 						<div class="row">
-							<div class="col-sm-5">
-								<img class="full-width" src="media/images/1.jpg" alt="Img">
-							</div>
-							<div class="col-sm-7 text-block">
-								<p><strong>Vel magna posuere vestibulum. Nam rutrum congue diam.</strong></p>
-								<p>Vivamus quis sapien. Etiam fring illatul Quisque consectetuer. Integer conguel elit non semper laoreet sed lectus orcid posuere nisl tempor lacus felis ac mauris.Vel magna posuere vestibulum. Nam rutrum congue diam.  Pellentesque inedu urna. Integer lvitae felis. Vel magna posuere vestibulum. Nam rutrum congue diam.</p>
-								<u>Aliquam malesuada mauris urk metus lorem ipsum dolor sit amet consectetur adipisicing</u>
-							</div>
+						
+					
 						</div>
 					</div>
 				</div>
@@ -91,7 +86,7 @@
 			<div class="bg-image parallax" style="background-image:url(media/bg/4.jpg);">
 				<div class="container-fluid text-center wow fadeInUp" data-wow-delay="0.3s">
 					<h1>WE ARE DEDICATED TO PROVIDE THE BEST SERVICE <br> AT THE LOWEST POSSIBLE COST</h1>
-					<a class="btn btn-success" href="10_blog.html">READ MORE</a>
+					<a class="btn btn-success" href="">READ MORE</a>
 				</div>
 			</div>
 

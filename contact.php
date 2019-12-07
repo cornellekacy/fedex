@@ -21,7 +21,7 @@
 						<div class="adress-details wow fadeInLeft" data-wow-delay="0.3s">
 							<div>
 								<span><i class="fa fa-location-arrow"></i></span>
-								<div><strong>FEDEXSUSA LTD.</strong><br>3608 NewHill Station Ave CA,  Newyork 33102 </div>
+								<div><strong>FedEx-USA LTD.</strong><br>3608 NewHill Station Ave CA,  Newyork 33102 </div>
 							</div>
 							<div>
 								<span><i class="fa fa-phone"></i></span>
@@ -41,7 +41,7 @@
 						<div class="adress-details wow fadeInLeft" data-wow-delay="0.3s">
 							<div>
 								<span><i class="fa fa-location-arrow"></i></span>
-								<div><strong>FEDEXSUSA LTD.</strong><br>3608 NewHill Station Ave CA,  Newyork 33102 </div>
+								<div><strong>FedEx-USA LTD.</strong><br>3608 NewHill Station Ave CA,  Newyork 33102 </div>
 							</div>
 							<div>
 								<span><i class="fa fa-phone"></i></span>
@@ -122,7 +122,7 @@ EOT;
 }
 ?> 
 						<h4>SEND us a message</h4>
-						<p>Integer congue elit noin semper laoreet sed lectus orcil posuer nisal tempor se felis acm Pelentesque inyd urna. Integer vitae felis magna po estibulm Nam rutrumc diam. Aliquam malesuada maurs.</p>
+						<p>Our customer support is always on standby to answer all your inquiries. fill the form bellow or better still chat with us on the live chat support. We are here for you.</p>
 						<div id="success"></div>
 						<form novalidate id="contactForm" method="post" class="reply-form form-inline">
 							<div class="row form-elem">	

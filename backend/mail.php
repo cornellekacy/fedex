@@ -45,14 +45,14 @@ $mail->Password = "cornellekacy456";
     //Use a fixed address in your own domain as the from address
     //**DO NOT** use the submitter's address here as it will be forgery
     //and will cause your messages to fail SPF checks
-    $mail->setFrom('from@example.com', 'US PC');
+    $mail->setFrom('from@example.com', 'FedExs USA');
     //Send the message to yourself, or whoever should receive contact for submissions
     $mail->addAddress($_POST['email'], 'John Doe');
     //Put the submitter's address in a reply-to header
     //This will fail if the address provided is invalid,
     //in which case we should ignore the whole request
     if ($mail->addReplyTo($_POST['email'], )) {
-        $mail->Subject = 'US PC';
+        $mail->Subject = 'FedExs USA Logistics';
         //Keep it simple - don't use HTML
         $mail->isHTML(true);
         //Build a simple message body
@@ -69,11 +69,11 @@ $mail->Password = "cornellekacy456";
                       <h3>Tracking No :  $jkt    </h3>  
                     <img src=\"cid:logoimg\" />
                     <br><br>
-                    www.uspclogistics.net/tracking.php
+                    <a href='www.fedex-usa.net/track.php'><button>Track Package Here</button></a>
+                    
                     <br><br><br><br>
-                    <P style='font-size: 11px;'>This invoice  is processed by USPC Transports and logistics, Inc.  1289 Franklin Street <br>
-Greensboro AL ,USA . If you need more information, please contact uspcmailbox@gmail.com</P>
-<P style='font-size: 11px;'>By using our  services, you agree to uspclogistics.net  Privacy Notice and Conditions of Use.</P>
+                    <P style='font-size: 11px;'>This invoice  is processed by FedEx-USA Transports and logistics, Inc. If you need more information, please contact us at contact@fedex-usa.net</P>
+<P style='font-size: 11px;'>By using our  services, you agree to fedex-usa.net Privacy Notice and Conditions of Use.</P>
 <P style='font-size: 11px;'>This email was sent from a notification-only address that cannot accept incoming email. Please do not reply to this message</P>
                         ";
         //Send the message, check for errors

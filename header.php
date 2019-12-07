@@ -5,7 +5,7 @@
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Fedexs USA - Home</title>
+        <title>FedEx-USA - Home</title>
         
         <link href="css/master.css" rel="stylesheet">
        
@@ -18,6 +18,17 @@
 		<link rel="alternate stylesheet" type="text/css" href="assets/switcher/css/color5.css" title="color5" media="all" />
 		<link rel="alternate stylesheet" type="text/css" href="assets/switcher/css/color6.css" title="color6" media="all" />
 		<link rel="icon" type="image/png" sizes="16x16" href="img/fav.png">
+		<style type="text/css">
+			.blink_me {
+  animation: blinker 3s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+		</style>
         
         <!--[if lt IE 9]>
           <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -45,9 +56,9 @@
 				<div class="container-fluid">
 					<div class="topmenu row">
 						<nav class="col-sm-offset-3 col-md-offset-4 col-lg-offset-4 col-sm-6 col-md-5 col-lg-5">
-							<a href="#">BUY NOW</a>
-							<a href="#">read documentation</a>
-							<a href="#">WHY US</a>
+							<a href="backend/index.php">LOGIN</a>
+							<a href="contact.php">CONTACT</a>
+							<a href="about.php">WHY US</a>
 						</nav>
 						<nav class="text-right col-sm-3 col-md-3 col-lg-3">
 							<a href="#"><i class="fa fa-facebook"></i></a>
@@ -59,12 +70,12 @@
 					</div>
 					<div class="row header">
 						<div class="col-sm-3 col-md-3 col-lg-3">
-							<a href="01_home.html"><img src="img/logo2.png"></a>
+							<a href="01_home.html"><img src="img/log2.png"></a>
 						</div>
 						<div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
 							<div class="text-right header-padding">
 								<div class="h-block"><span>CALL US</span>1.800.987.6543</div>
-								<div class="h-block"><span>EMAIL US</span>info@domain.com</div>
+								<div class="h-block"><span>EMAIL US</span>contact@fedex-usa.net</div>
 								<div class="h-block"><span>WORKING HOURS</span>Mon - Sat  8.00 - 19.00</div>
 								<a class="btn btn-success" href="qoute.php">GET A FREE QUOTE</a>
 							</div>
