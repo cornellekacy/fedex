@@ -20,7 +20,7 @@ CREATE TABLE IF NOT EXISTS `track`.`users` (
 ENGINE = InnoDB;
 
 INSERT INTO `users` (`user_id`, `email`, `username`,`password`) VALUES
-(1, 'cornelle@gmail.com', 'adrian', md5('adrian45'));
+(1, 'cornelle@gmail.com', 'admin', md5('admin45'));
 
 
 DROP TABLE IF EXISTS `track`.`track` ;

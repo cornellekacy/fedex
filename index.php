@@ -50,7 +50,7 @@
 							<div class="hgroup">
 								<h1 class="color-1">GET A FREE QUOTE</h1>
 								<h2>we always use best & fastest fleets</h2>
-															<?php
+								<?php
 /**
  * This example shows how to handle a simple contact form.
  */
