@@ -4,7 +4,7 @@
 				<div class="container-fluid">
 					<div class="row block-content">
 						<div class="col-xs-8 col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-							<a href="#" ><img src="img/logo-footer3.png"></a>
+							<a href="#" ><img src="img/f1.png"></a>
 							<p>We strongly believe that pursuing all of these goals is in our interest and in the interest of all our stakeholders: customers, employees, investors and the planet as a whole.</p>
 							<div class="footer-icons">
 								<a href="#"><i class="fa fa-facebook-square fa-2x"></i></a>

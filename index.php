@@ -40,8 +40,22 @@ ini_set('display_errors', 1);
 					</div>
 				</div>
 			</div>
-
+<div class="container">
+	<div class="row">
+					<div class="col-md-2">
+						
+					</div>
+					<div class="col-md-8">
+						<h3 align="center">WELCOME TO FRDEX USA</h3>
+					</div>
+					<div class="col-md-2">
+						
+					</div>
+				</div>
+</div>
+<br><br><br>
 			<div class="container-fluid block-content">
+				
 				<div class="row">
 					<div class="col-sm-5 col-md-5 col-lg-5 welcome-text wow fadeInLeft" data-wow-delay="3.3s">
 						<h1>welcome to  FedEx-<strong style="color: #a91605">USA</strong></h1>

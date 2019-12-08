@@ -71,7 +71,7 @@
 					</div>
 					<div class="row header">
 						<div class="col-sm-3 col-md-3 col-lg-3">
-							<a href="01_home.html"><img src="img/log2.png"></a>
+							<a href="01_home.html"><img src="img/f1.png"></a>
 						</div>
 						<div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
 							<div class="text-right header-padding">
