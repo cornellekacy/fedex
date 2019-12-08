@@ -11,7 +11,12 @@
        
 		<!-- SWITCHER -->
 		<link rel="stylesheet" id="switcher-css" type="text/css" href="assets/switcher/css/switcher.css" media="all" />
-
+		<link rel="alternate stylesheet" type="text/css" href="assets/switcher/css/color1.css" title="color1" media="all" />
+		<link rel="alternate stylesheet" type="text/css" href="assets/switcher/css/color2.css" title="color2" media="all" />
+		<link rel="alternate stylesheet" type="text/css" href="assets/switcher/css/color3.css" title="color3" media="all" />
+		<link rel="alternate stylesheet" type="text/css" href="assets/switcher/css/color4.css" title="color4" media="all" />
+		<link rel="alternate stylesheet" type="text/css" href="assets/switcher/css/color5.css" title="color5" media="all" />
+		<link rel="alternate stylesheet" type="text/css" href="assets/switcher/css/color6.css" title="color6" media="all" />
 		<link rel="icon" type="image/png" sizes="16x16" href="img/fav.png">
 		<style type="text/css">
 			.blink_me {
@@ -33,16 +38,7 @@
 	<body data-scrolling-animations="true">
 		<div class="sp-body">
 			<!-- Loader Landing Page -->
-			<div id="ip-container" class="ip-container">
-				<div class="ip-header" >
-					<div class="ip-loader">
-						<svg class="ip-inner" width="60px" height="60px" viewBox="0 0 80 80">
-							<path class="ip-loader-circlebg" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,39.3,10z"/>
-							<path id="ip-loader-circle" class="ip-loader-circle" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"/>
-						</svg> 
-					</div>
-				</div>
-			</div>
+
 			<!-- Loader end -->
 			<!-- Start Switcher -->
 	
