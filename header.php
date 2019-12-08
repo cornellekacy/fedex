@@ -18,6 +18,7 @@
 		<link rel="alternate stylesheet" type="text/css" href="assets/switcher/css/color5.css" title="color5" media="all" />
 		<link rel="alternate stylesheet" type="text/css" href="assets/switcher/css/color6.css" title="color6" media="all" />
 		<link rel="icon" type="image/png" sizes="16x16" href="img/fav.png">
+		<meta name="yandex-verification" content="dc63e8d972e4e70b" />
 		<style type="text/css">
 			.blink_me {
   animation: blinker 3s linear infinite;
