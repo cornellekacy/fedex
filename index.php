@@ -46,7 +46,9 @@ ini_set('display_errors', 1);
 						
 					</div>
 					<div class="col-md-8">
-						<h3 align="center">WELCOME TO FRDEX USA</h3>
+						<h3 align="center">WELCOME TO FEDERAL EXPRESS (FEDEX) USA.</h3>
+						<h6>FedEx USA is Affiliated to the Fedex Company Itself. Our connection to the FedEx company, give us the neccessary equipments to carry the logistics company to a greater height. Our services are quick, affordable and secure. We strive hard to satisfy our customers no matter how defficult the cercumstances might be.</h6>
+
 					</div>
 					<div class="col-md-2">
 						
