@@ -108,10 +108,10 @@ if (array_key_exists('email', $_POST)) {
 			echo "<div class='alert alert-success'>
 			<strong>Sent!</strong> Qoute successfully Created, we will get back to you soon.
 			</div>";
-		}
-	 else {
+		}else {
 		$msg = 'Invalid email address, message ignored.';
 	}
+}
 }
 ?>
 							</div>
