@@ -60,7 +60,7 @@ ini_set('display_errors', 1);
 				
 				<div class="row">
 					<div class="col-sm-5 col-md-5 col-lg-5 welcome-text wow fadeInLeft" data-wow-delay="3.3s">
-						<h1>welcome to  FedEx-<strong style="color: #a91605">USA</strong></h1>
+						<h1>About  FedEx-<strong>USA</strong></h1>
 						<p>We strongly believe that pursuing all of these goals is in our interest and in the interest of all our stakeholders: customers, employees, investors and the planet as a whole. We add value to people’s interaction with us, whether with excellent services or products, by engaging our employees and nurturing their talents. And, we show concern for our world and our communities with our various corporate responsibility programs under the motto of ‘Living responsibility’.</p>
 						<p>We are your best friend when it comes to package transportation and delivery, FedEx-USA is the best company you can relly on if you buy online and you need a delivery service or if you are a business man and you need a reliable transport company to bring you goods to you. We also have warehouse services that can hold you goods untill you are ready to take.</p>
 						<a href="about.php" class="btn btn-sm btn-success">READ MORE</a>
