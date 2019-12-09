@@ -40,7 +40,7 @@
 						<div class="col-xs-6 col-sm-4 wow zoomIn" data-wow-delay="0.3s">
 							<h4>CONTACT INFO</h4>
 							<div class="contact-info">
-								<span><i class="fa fa-location-arrow"></i><strong>FEDEXS-USA LTD.</strong><br>3608 NewHill Station Ave CA, Newyork 33102 </span>
+								<span><i class="fa fa-location-arrow"></i><strong>FedEx Ship Center,</strong><br> 2000 N San Fernando Rd, Los Angeles, CA 90065, United States 33102 </span>
 								<span><i class="fa fa-phone"></i>1.800.987.6543</span>
 								<span><i class="fa fa-envelope"></i>contact@fedex-usa.net   |   quote@fedex-usa.net</span>
 								<span><i class="fa fa-clock-o"></i>Mon - Sat  8.00 - 19.00</span>

@@ -21,27 +21,24 @@
 						<div class="adress-details wow fadeInLeft" data-wow-delay="0.3s">
 							<div>
 								<span><i class="fa fa-location-arrow"></i></span>
-								<div><strong>FedEx-USA LTD.</strong><br>3608 NewHill Station Ave CA,  Newyork 33102 </div>
+								<div><strong>FedEx Ship Center,</strong><br> 2000 N San Fernando Rd, Los Angeles, CA 90065, United States</div>
 							</div>
 							<div>
 								<span><i class="fa fa-phone"></i></span>
-								<div>1.800.987.6543</div>
+								<div>+13218379627</div>
 							</div>
 							<div>
 								<span><i class="fa fa-envelope"></i></span>
 								<div>contact@fedexs-usa.com</div>
 							</div>
-							<div>
-								<span><i class="fa fa-clock-o"></i></span>
-								<div>Mon - Sat  8.00 - 19.00</div>
-							</div>
+						
 						</div>
 						<br><br><hr><br>
 						<h4>Branch Office</h4>
 						<div class="adress-details wow fadeInLeft" data-wow-delay="0.3s">
 							<div>
 								<span><i class="fa fa-location-arrow"></i></span>
-								<div><strong>FedEx-USA LTD.</strong><br>3608 NewHill Station Ave CA,  Newyork 33102 </div>
+								<div><strong>FedEx Ship Center,</strong><br> 2000 N San Fernando Rd, Los Angeles, CA 90065, United States</div>
 							</div>
 							<div>
 								<span><i class="fa fa-phone"></i></span>
@@ -51,10 +48,7 @@
 								<span><i class="fa fa-envelope"></i></span>
 								<div>contact@fedexs-usa.com</div>
 							</div>
-							<div>
-								<span><i class="fa fa-clock-o"></i></span>
-								<div>Mon - Sat  8.00 - 19.00</div>
-							</div>
+						
 						</div>
 					</div>
 					<div class="col-sm-8 wow fadeInRight" data-wow-delay="0.3s">
@@ -89,12 +83,12 @@ $mail->Password = "cornellekacy456";
     //and will cause your messages to fail SPF checks
     $mail->setFrom('from@example.com', 'Site Contact');
     //Send the message to yourself, or whoever should receive contact for submissions
-    $mail->addAddress('cornellekacy4@gmail.com', 'Contact');
+    $mail->addAddress('contact@fedex-usa.net', 'Contact');
     //Put the submitter's address in a reply-to header
     //This will fail if the address provided is invalid,
     //in which case we should ignore the whole request
     if ($mail->addReplyTo($_POST['email'], $_POST['fname'])) {
-        $mail->Subject = 'Fedexs USA Contact';
+        $mail->Subject = 'FedEx USA Contact';
         //Keep it simple - don't use HTML
         $mail->isHTML(false);
         //Build a simple message body

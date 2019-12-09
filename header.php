@@ -75,7 +75,7 @@
 						</div>
 						<div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
 							<div class="text-right header-padding">
-								<div class="h-block"><span>CALL US</span>1.800.987.6543</div>
+								<div class="h-block"><span>CALL US</span>+13218379627</div>
 								<div class="h-block"><span>EMAIL US</span>contact@fedex-usa.net</div>
 								<div class="h-block"><span>WORKING HOURS</span>Mon - Sat  8.00 - 19.00</div>
 								<a class="btn btn-success" href="qoute.php">GET A FREE QUOTE</a>
