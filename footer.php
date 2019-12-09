@@ -39,7 +39,6 @@
 						</div>
 						<div class="col-xs-6 col-sm-4 wow zoomIn" data-wow-delay="0.3s">
 							<h4>CONTACT INFO</h4>
-							Everyday is a new day for us and we work really hard to satisfy our customers everywhere.
 							<div class="contact-info">
 								<span><i class="fa fa-location-arrow"></i><strong>FEDEXS-USA LTD.</strong><br>3608 NewHill Station Ave CA, Newyork 33102 </span>
 								<span><i class="fa fa-phone"></i>1.800.987.6543</span>

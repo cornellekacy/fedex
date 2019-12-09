@@ -65,7 +65,7 @@
 					<div class="col-sm-6 col-md-3">
 						<div class="chart" data-percent="68">
 							<span><i class="fa fa-users"></i></span>
-							<span class="percent">68</span>Clients Worldwide
+							<span class="percent">5</span>Million Clients Worldwide
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-3">
