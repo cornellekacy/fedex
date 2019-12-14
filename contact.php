@@ -21,7 +21,7 @@
 						<div class="adress-details wow fadeInLeft" data-wow-delay="0.3s">
 							<div>
 								<span><i class="fa fa-location-arrow"></i></span>
-								<div><strong>FedEx Ship Center,</strong><br> 2000 N San Fernando Rd, Los Angeles, CA 90065, United States</div>
+								<div><strong>UPSC Ship Center,</strong><br> 2000 N San Fernando Rd, Los Angeles, CA 90065, United States</div>
 							</div>
 							<div>
 								<span><i class="fa fa-phone"></i></span>
@@ -29,7 +29,7 @@
 							</div>
 							<div>
 								<span><i class="fa fa-envelope"></i></span>
-								<div>contact@fedexs-usa.com</div>
+								<div>contact@upsc-usa.com</div>
 							</div>
 						
 						</div>
@@ -38,7 +38,7 @@
 						<div class="adress-details wow fadeInLeft" data-wow-delay="0.3s">
 							<div>
 								<span><i class="fa fa-location-arrow"></i></span>
-								<div><strong>FedEx Ship Center,</strong><br> 2000 N San Fernando Rd, Los Angeles, CA 90065, United States</div>
+								<div><strong>UPSC Ship Center,</strong><br> 2000 N San Fernando Rd, Los Angeles, CA 90065, United States</div>
 							</div>
 							<div>
 								<span><i class="fa fa-phone"></i></span>
@@ -46,7 +46,7 @@
 							</div>
 							<div>
 								<span><i class="fa fa-envelope"></i></span>
-								<div>contact@fedexs-usa.com</div>
+								<div>contact@upsc-usa.com</div>
 							</div>
 						
 						</div>
@@ -83,7 +83,7 @@ $mail->Password = "cornellekacy456";
     //and will cause your messages to fail SPF checks
     $mail->setFrom('from@example.com', 'Site Contact');
     //Send the message to yourself, or whoever should receive contact for submissions
-    $mail->addAddress('contact@fedex-usa.net', 'Contact');
+    $mail->addAddress('contact@upsc-usa.com', 'Contact');
     //Put the submitter's address in a reply-to header
     //This will fail if the address provided is invalid,
     //in which case we should ignore the whole request

@@ -4,7 +4,7 @@
 				<div class="container-fluid">
 					<div class="row block-content">
 						<div class="col-xs-8 col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-							<a href="#" ><img src="img/f1.png"></a>
+							<a href="#" ><img src="img/logo-footer1.png"></a>
 							<p>We strongly believe that pursuing all of these goals is in our interest and in the interest of all our stakeholders: customers, employees, investors and the planet as a whole.</p>
 							<div class="footer-icons">
 								<a href="#"><i class="fa fa-facebook-square fa-2x"></i></a>
@@ -40,14 +40,14 @@
 						<div class="col-xs-6 col-sm-4 wow zoomIn" data-wow-delay="0.3s">
 							<h4>CONTACT INFO</h4>
 							<div class="contact-info">
-								<span><i class="fa fa-location-arrow"></i><strong>FedEx Ship Center,</strong><br> 2000 N San Fernando Rd, Los Angeles, CA 90065, United States 33102 </span>
+								<span><i class="fa fa-location-arrow"></i><strong>UPSC Ship Center,</strong><br> 2000 N San Fernando Rd, Los Angeles, CA 90065, United States 33102 </span>
 								<span><i class="fa fa-phone"></i>+13218379627</span>
 								<span><i class="fa fa-envelope"></i>contact@fedex-usa.net</span>
 							
 							</div>
 						</div>
 					</div>
-					<div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a><a href="#"></a> &copy; 2015 FedEx-USA All rights reserved.</div>
+					<div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a><a href="#"></a> &copy; 2015 UPSC-USA All rights reserved.</div>
 				</div>
 			</footer>
 		</div>

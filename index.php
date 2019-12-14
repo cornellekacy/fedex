@@ -18,7 +18,7 @@ ini_set('display_errors', 1);
 									<h1>LARGE NUMBER OF FREIGHT WAYS MAKES US POWERFUL</h1>
 								</div>
 							</div>
-							<p>FedEx-USA has a very large number of freight at it disposal and for this reason alone, we provide the best services. We are fast and reliable, secure and consistent<br><a class="btn btn-success" href="services.php">LEARN MORE</a></p>
+							<p>UPSC-USA has a very large number of freight at it disposal and for this reason alone, we provide the best services. We are fast and reliable, secure and consistent<br><a class="btn btn-success" href="services.php">LEARN MORE</a></p>
 						</div>
 					</div>
 				</div>
@@ -46,8 +46,7 @@ ini_set('display_errors', 1);
 						
 					</div>
 					<div class="col-md-8">
-						<h3 align="center">WELCOME TO FEDERAL EXPRESS (FEDEX) USA.</h3>
-						<h6>FedEx USA is Affiliated to the Fedex Company Itself. Our connection to the FedEx company, give us the neccessary equipments to carry the logistics company to a greater height. Our services are quick, affordable and secure. We strive hard to satisfy our customers no matter how defficult the cercumstances might be.</h6>
+						<h3 align="center">WELCOME TO UNITED PARCEL SERVICE COMPANY USA.</h3>
 
 					</div>
 					<div class="col-md-2">
@@ -60,9 +59,9 @@ ini_set('display_errors', 1);
 				
 				<div class="row">
 					<div class="col-sm-5 col-md-5 col-lg-5 welcome-text wow fadeInLeft" data-wow-delay="3.3s">
-						<h1>About  FedEx-<strong>USA</strong></h1>
+						<h1>About  UPSC <strong>USA</strong></h1>
 						<p>We strongly believe that pursuing all of these goals is in our interest and in the interest of all our stakeholders: customers, employees, investors and the planet as a whole. We add value to people’s interaction with us, whether with excellent services or products, by engaging our employees and nurturing their talents. And, we show concern for our world and our communities with our various corporate responsibility programs under the motto of ‘Living responsibility’.</p>
-						<p>We are your best friend when it comes to package transportation and delivery, FedEx-USA is the best company you can relly on if you buy online and you need a delivery service or if you are a business man and you need a reliable transport company to bring you goods to you. We also have warehouse services that can hold you goods untill you are ready to take.</p>
+						<p>We are your best friend when it comes to package transportation and delivery, UPSC-USA is the best company you can relly on if you buy online and you need a delivery service or if you are a business man and you need a reliable transport company to bring you goods to you. We also have warehouse services that can hold you goods untill you are ready to take.</p>
 						<a href="about.php" class="btn btn-sm btn-success">READ MORE</a>
 					</div>
 					<div class="col-sm-7 col-md-7 col-lg-7 wow fadeInRight" data-wow-delay="3.3s">
@@ -128,21 +127,21 @@ ini_set('display_errors', 1);
 						<img src="media/3-column-info/1.jpg" alt="Img">
 						<span></span>
 						<h3>ROAD FREIGHT<</h3>
-						<p>For medium-to-large transportation programs, FedEx-USA Supply Chain Solutions can design a transportation management solution that offers enhanced business performance with competitive freight rates and reduced administrative expenses. We can help you make your transportation program more cost-effective and easier to manage. Benefits include an automated, online rating and routing tool, expert carrier relations and contract management, shipment visibility, and management reporting.</p>
+						<p>For medium-to-large transportation programs, UPSC-USA Supply Chain Solutions can design a transportation management solution that offers enhanced business performance with competitive freight rates and reduced administrative expenses. We can help you make your transportation program more cost-effective and easier to manage. Benefits include an automated, online rating and routing tool, expert carrier relations and contract management, shipment visibility, and management reporting.</p>
 						<a class="btn btn-default btn-sm" href="services.php">READ MORE</a>
 					</div>
 					<div class="col-sm-4 col-md-4 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
 						<img src="media/3-column-info/2.jpg" alt="Img">
 						<span></span>
 						<h3>AIR FREIGHT</h3>
-						<p>Airfreight is fast-moving, challenging and constantly changing – it’s the nature of the business. Around the globe capacity and demand can change in the blink of an eye so it’s essential to have a partner who provides stability and reliability to maintain your supply chain’s total integrity. Whether your shipments fly in the bellies of commercial planes or require specialist freighter aircraft to move them, FedEx-USA can provide tailor-made solutions for your all your airfreight.</p>
+						<p>Airfreight is fast-moving, challenging and constantly changing – it’s the nature of the business. Around the globe capacity and demand can change in the blink of an eye so it’s essential to have a partner who provides stability and reliability to maintain your supply chain’s total integrity. Whether your shipments fly in the bellies of commercial planes or require specialist freighter aircraft to move them, UPSC-USA can provide tailor-made solutions for your all your airfreight.</p>
 						<a class="btn btn-default btn-sm" href="services.php">READ MORE</a>
 					</div>
 					<div class="col-sm-4 col-md-4 col-lg-4 wow fadeInRight" data-wow-delay="0.3s">
 						<img src="media/3-column-info/3.jpg" alt="Img">
 						<span></span>
 						<h3>RAIL FREIGHT</h3>
-						<p>Your company has a dilemma. You know that rail can provide a cost-effective way to ship your goods - but is it reliable? In today's business world, where any delay can spell disaster, FedEx-USA Supply Chain Solutions can provide a dependable, cost-effective rail option
+						<p>Your company has a dilemma. You know that rail can provide a cost-effective way to ship your goods - but is it reliable? In today's business world, where any delay can spell disaster, UPSC-USA Supply Chain Solutions can provide a dependable, cost-effective rail option
 Our trailer-on-flat-car service offers climate-controlled trailers for perishable products that need protection from the heat or cold, such as produce, flowers, poultry, beverages, and other non-hazardous materials. Your products will reach their destination on time while you reduce transportation costs.
 Non-perishable or general freight can also be handled with seamless efficiency. As one of the largest rail customers, we have the experience necessary to establish the service controls and schedules so vital to your business.</p>
 						<a class="btn btn-default btn-sm" href="services.php">READ MORE</a>
@@ -202,7 +201,7 @@ Non-perishable or general freight can also be handled with seamless efficiency. 
 						<a href="08_services-details.html">
 							<span><i class="glyph-icon flaticon-traffic-signal"></i></span>
 							<h4>ROAD FREIGHT</h4>
-							<p>Our buses are good and swift, transporting parkages has never been easier with FedEx-USA. We are very reliable</p>
+							<p>Our buses are good and swift, transporting parkages has never been easier with UPSC-USA. We are very reliable</p>
 						</a>
 					</div>
 				</div>
@@ -212,7 +211,7 @@ Non-perishable or general freight can also be handled with seamless efficiency. 
 			<div class="big-hr color-2 wow zoomInUp" data-wow-delay="0.3s">
 				<div class="text-left" style="margin-right:40px;">
 					<h2>WE PROVIDE FASTEST & AFFORDABLE CARGO SERVICES</h2>
-					<p>FedEx-USA is fast, affordable, reliable and very safe. Trust us with you goods.</p>
+					<p>UPSC-USA is fast, affordable, reliable and very safe. Trust us with you goods.</p>
 				</div>
 				<div><a class="btn btn-danger btn-lg" href="qoute.php">REQUEST A FREE QUOTE</a></div>
 			</div>
