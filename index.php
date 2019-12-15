@@ -1,7 +1,5 @@
 <?php include 'header.php'; 
 
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
 ?>
 
 			<div id="owl-main-slider" class="owl-carousel enable-owl-carousel" data-single-item="true" data-pagination="false" data-auto-play="true" data-main-slider="true" data-stop-on-hover="true">
