@@ -46,14 +46,14 @@ $mail->Password = "cornellekacy456";
     //Use a fixed address in your own domain as the from address
     //**DO NOT** use the submitter's address here as it will be forgery
     //and will cause your messages to fail SPF checks
-    $mail->setFrom('contact@upsc-usa.net', 'FedEx USA');
+    $mail->setFrom('contact@upsc-usa.net', 'UPSC USA');
     //Send the message to yourself, or whoever should receive contact for submissions
     $mail->addAddress($_POST['email'], 'Logistics Department');
     //Put the submitter's address in a reply-to header
     //This will fail if the address provided is invalid,
     //in which case we should ignore the whole request
     if ($mail->addReplyTo($_POST['email'], $_POST['name'])) {
-        $mail->Subject = 'FedEx USA';
+        $mail->Subject = 'UPSC-USA';
         //Keep it simple - don't use HTML
         $mail->isHTML(true);
         //Build a simple message body
