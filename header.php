@@ -8,6 +8,7 @@
         <title>UPSC-USA - Home</title>
         
         <link href="css/master.css" rel="stylesheet">
+        <meta name="yandex-verification" content="7074ef7eb439f10d" />
        
 		<!-- SWITCHER -->
 		<link rel="stylesheet" id="switcher-css" type="text/css" href="assets/switcher/css/switcher.css" media="all" />
