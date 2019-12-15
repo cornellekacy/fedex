@@ -46,7 +46,7 @@ ini_set('display_errors', 1);
 						
 					</div>
 					<div class="col-md-8">
-						<h3 align="center">WELCOME TO UNITED PARCEL SERVICE COMPANY USA.</h3>
+						<h3 align="center">WELCOME TO UNITED PARCEL SERVICE COMPANY (UPSC) USA.</h3>
 
 					</div>
 					<div class="col-md-2">
