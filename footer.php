@@ -41,7 +41,7 @@
 							<h4>CONTACT INFO</h4>
 							<div class="contact-info">
 								<span><i class="fa fa-location-arrow"></i><strong>UPSC Ship Center,</strong><br> 2000 N San Fernando Rd, Los Angeles, CA 90065, United States 33102 </span>
-								<span><i class="fa fa-phone"></i>+13218379627</span>
+								<span><i class="fa fa-phone"></i>+1 (202) 681-3519</span>
 								<span><i class="fa fa-envelope"></i>contact@fedex-usa.net</span>
 							
 							</div>

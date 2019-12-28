@@ -25,7 +25,7 @@
 							</div>
 							<div>
 								<span><i class="fa fa-phone"></i></span>
-								<div>+13218379627</div>
+								<div>+1 (202) 681-3519</div>
 							</div>
 							<div>
 								<span><i class="fa fa-envelope"></i></span>
@@ -42,7 +42,7 @@
 							</div>
 							<div>
 								<span><i class="fa fa-phone"></i></span>
-								<div>1.800.987.6543</div>
+								<div>+1 (202) 681-3519</div>
 							</div>
 							<div>
 								<span><i class="fa fa-envelope"></i></span>
